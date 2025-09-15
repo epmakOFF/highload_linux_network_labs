@@ -8,8 +8,9 @@ Feel free to ask anything:
 - Open Issues if you have a problem with scripts
 
 ## Useful materials:
-- [cheat sheet](https://drive.google.com/file/d/1xXYeR9KwdBGP9ZKmhfIqDoeyB74StqvN/view?usp=sharing)
-- [presentation](https://drive.google.com/file/d/1RTG-_Rcf2LWzl8YtfjizJkRM7iG_w-8g/view?usp=sharing)
+- cheat sheet [original](https://drive.google.com/file/d/1xXYeR9KwdBGP9ZKmhfIqDoeyB74StqvN/view?usp=sharing), [mirror](https://drive.google.com/file/d/1AnNq56ayeLjehHKsjqwOQm_aeMJ88HnY/view?usp=sharing)  
+- presentation [original](https://drive.google.com/file/d/1RTG-_Rcf2LWzl8YtfjizJkRM7iG_w-8g/view?usp=sharing), [mirror](https://drive.google.com/file/d/1RBEQho8L9x8Se93F3Xiwst_5hE6TyD0Z/view?usp=sharing)
+- video [original](https://youtu.be/lvE_wJXdUms), [mirror](https://youtu.be/Ex4i9I-4s6w)
 
 ## Labs:
 - [lab0](./labs/lab0_test.sh): routing, **test lab without any problems**
